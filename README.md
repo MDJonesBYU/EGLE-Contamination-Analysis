@@ -3,10 +3,10 @@
 Identifying and Prioritizing Contaminant Cleanup in Michigan by cross-comparing Public Health Factors
 
 **Attribution and Copyright:**
-This work is the property of Envirolytica LLC, and produced with the intent to support not-for-profit individuals and organizations. For-profit use requires written permission, in the form of electronic mail, along with a contract detailing approved usage and payment. Not-for-profit use is freely available. For questions, new projects, or donations, see below: 
+This work is the property of Envirolytica LLC, and produced with the intent to support not-for-profit individuals and organizations. For-profit use requires written permission, in the form of electronic mail, along with a contract detailing approved usage and payment. Not-for-profit use is freely available. Attribution is required for all uses. For questions, new projects, or donations, see below: 
 MJones@Envirolytica.com
 www.Envirolytica.com
-
+Donations: paypal.me/Envirolytica
 
 **Background:**
 There are thousands of contamination sites across the state of Michigan, as defined by Parts 201 and Parts 213 of the Natural Resources and Environmental Protection Act (NREPA). With limited budget available, determining which contaminanted sites to prioritize for restoration  is a key challenge for regulatory authorities. This project sought to determine a data-driven method to prioritize contaminant sites relative to each district managed by Michigan's environmental agency (EGLE).
@@ -53,4 +53,4 @@ Total Risk = Chemical Risk + Well Risk + Healthcare Risk + School Risk + Assessm
 Subsections were taken to than rank each contaminated site by the severity for each district as well to enable District EGLE employees to priority their contaminant sites appropriately. 
 
 For questions or concerns, please contact Matt Jones: MJONES@ENvirolytica.com. 
-This project is the culmination of years of work between Mr. Jones and EGLE staff. Please consider a donation to support this and future projects. 
+This project is the culmination of years of work between Mr. Jones and EGLE staff. Please consider a donation to support this and future projects. **Donate here: paypal.me/Envirolytica**
