@@ -28,29 +28,31 @@ Contaminant sites are excluded if:
 Schools and Hospitals were excluded if they were no longer considered in use. 
 
 **Methodology**
-Total Risk Assessed to the Public is based on the following factors: 
-1. The proximity of the contaminated site relative to nearby schools, healthcare facilities, wellhead protection areas, and wells.
-2. The density of schools, healthcare facilities, wellhead protection areas, and wells in a square mile radius.
-3. The chemical(s) present at the contaminated site
-4. The environmental justice score for the surrounding area (as determined by EGLE)
-5.  The assessed urgency of cleanup as termined by EGLE or its designated representatives.
+Total Risk: 
+  Total Risk Assessed to the Public is based on the following factors: 
+  1. The proximity of the contaminated site relative to nearby schools, healthcare facilities, wellhead protection areas, and wells.
+  2. The density of schools, healthcare facilities, wellhead protection areas, and wells in a square mile radius.
+  3. The chemical(s) present at the contaminated site
+  4. The environmental justice score for the surrounding area (as determined by EGLE)
+  5.  The assessed urgency of cleanup as termined by EGLE or its designated representatives.
 
-Chemicals information was only provided for ~25% of the 50,000+ contaminated sites. As such business type classifications were used to determine what the 2 most common contaminants were for each business type. Then an assumed contaminant was used for each facility where informaton was not specified. 
+Chemical Risk: 
+  Chemicals information was only provided for ~25% of the 50,000+ contaminated sites. As such business type classifications were used to determine what the 2 most common contaminants were for each business type. Then an assumed contaminant was used for each facility where informaton was not specified. 
+  
+  Chemical risk was weighted with Group i / (i) methodology such that the most conscerning group held a weight six times more important than the least concerning group, and was evaluated based on the chemical type, which was prioritized based on whether the chemical was contained in the following groups: 
+  * Chlorinated VOCs and Pesticides (Most Concerning)
+  * PFAS, PBB, PCB
+  * Petroleum and Hydrocarbon compounds
+  * Metals including Lead, Mercury, as well as Aromatic hydrocarbons like Dioxin and PAHs
+  * Other chemicals including Methane or items that create concern for Water Quality, PH, or not classified by existing methods.
+  * Unknown/Not Listed
 
-Chemical risk was evaluated based on the chemical type, which was prioritized based on whether the chemical was contained in the following groups: 
-* Chlorinated VOCs and Pesticides (Most Concerning)
-* PFAS, PBB, PCB
-* Petroleum and Hydrocarbon compounds
-* Metals including Lead, Mercury, as well as Aromatic hydrocarbons like Dioxin and PAHs
-* Other chemicals including Methane or items that create concern for Water Quality, PH, or not classified by existing methods.
-* Unknown/Not Listed
+District Evaluations: 
+  Subsections were taken to than rank each contaminated site by the severity for each district as well to enable District EGLE employees to priority their contaminant sites appropriately. 
 
-Chemical risk was weighted with Group i / (i) methodology such that the most conscerning group held a weight six times more important than the least concerning group. 
+Proximity Calculations: 
+  The haversine formula was used to calculate the proximity of different sites to neighboring wells, schools and the like. 
 
-For total risk no additional weighting was use Rather a straight summary as shown below: 
-Total Risk = Chemical Risk + Well Risk + Healthcare Risk + School Risk + Assessment Risk 
-
-Subsections were taken to than rank each contaminated site by the severity for each district as well to enable District EGLE employees to priority their contaminant sites appropriately. 
-
+**Contact:**
 For questions or concerns, please contact Matt Jones: MJONES@ENvirolytica.com. 
 This project is the culmination of years of work between Mr. Jones and EGLE staff. Please consider a donation to support this and future projects. **Donate here: paypal.me/Envirolytica**
