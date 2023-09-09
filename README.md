@@ -4,9 +4,9 @@ Identifying and Prioritizing Contaminant Cleanup in Michigan by cross-comparing 
 
 **Attribution and Copyright:**
 This work is the property of Envirolytica LLC, and produced with the intent to support not-for-profit individuals and organizations. For-profit use requires written permission, in the form of electronic mail, along with a contract detailing approved usage and payment. Not-for-profit use is freely available. Attribution is required for all uses. For questions, new projects, or donations, see below: 
-MJones@Envirolytica.com
-www.Envirolytica.com
-Donations: paypal.me/Envirolytica
+(MJones@Envirolytica.com)
+(www.Envirolytica.com)
+[Donations:] (paypal.me/Envirolytica)
 
 **Background:**
 There are thousands of contamination sites across the state of Michigan, as defined by Parts 201 and Parts 213 of the Natural Resources and Environmental Protection Act (NREPA). With limited budget available, determining which contaminanted sites to prioritize for restoration  is a key challenge for regulatory authorities. This project sought to determine a data-driven method to prioritize contaminant sites relative to each district managed by Michigan's environmental agency (EGLE).
@@ -54,5 +54,5 @@ Proximity Calculations:
   The haversine formula was used to calculate the proximity of different sites to neighboring wells, schools and the like. 
 
 **Contact:**
-For questions or concerns, please contact Matt Jones: MJONES@ENvirolytica.com. 
-This project is the culmination of years of work between Mr. Jones and EGLE staff. Please consider a donation to support this and future projects. **Donate here: paypal.me/Envirolytica**
+For questions or concerns, please contact Matt Jones: [Email] (MJones@Envirolytica.com). 
+This project is the culmination of years of work between Mr. Jones and EGLE staff. Please consider a donation to support this and future projects. **[Donate here:] (paypal.me/Envirolytica)**
