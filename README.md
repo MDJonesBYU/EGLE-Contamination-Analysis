@@ -55,4 +55,4 @@ Proximity Calculations:
 
 **Contact:**
 For questions or concerns, please contact Matt Jones: [Email](MJones@Envirolytica.com). 
-This project is the culmination of years of work between Mr. Jones and EGLE staff. Please consider a donation to support this and future projects. **[Donate here:]paypal.me/Envirolytica)**
+This project is the culmination of years of work between Mr. Jones and EGLE staff. Please consider a donation to support this and future projects. **[Donate here:](paypal.me/Envirolytica)**
