@@ -3,7 +3,7 @@
 Identifying and Prioritizing Contaminant Cleanup in Michigan by cross-comparing Public Health Factors
 
 **Attribution and Copyright:**
-This work is the property of Envirolytica LLC, and produced with the intent to support not-for-profit individuals and organizations. For-profit use requires written permission, in the form of electronic mail, along with a contract detailing approved usage and payment. Not-for-profit use is freely available. Attribution is required for all uses. For questions, new projects, or donations, see below: 
+This work is the property of Envirolytica LLC, and produced with the intent to support not-for-profit individuals and organizations. For-profit use requires written permission, in the form of electronic mail, along with a contract detailing approved usage and payment. <u>There is no licensing fee for use by nonprofit and/or governmental organizations.</u> Attribution is required for all uses. For questions, new projects, or donations, see below: 
 MJones@Envirolytica.com
 www.Envirolytica.com
 [Donations:](paypal.me/Envirolytica)
